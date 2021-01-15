@@ -27,7 +27,7 @@ Run `cd test-api; mvn clean install`.
 
 #### PostgreSQL
 
-Start PostgreSQL using `start_db.sh` in sehll.
+Start PostgreSQL using `start_db.sh`.
 
 #### Server Java
 
