@@ -31,7 +31,7 @@ Start PostgreSQL using `start_db.sh`.
 
 #### Server Java
 
-Once PostgreSQL is running, start `test-api` using `test-api; java -jar target/test-api.jar server src/main/resources/config.yml`
+Once PostgreSQL is running, start `test-api` using `cd test-api; java -jar target/test-api.jar server src/main/resources/config.yml`
 Every new build of `test-api` will require a restart of `test-api`.
 
 #### Application start
